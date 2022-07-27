@@ -1,4 +1,4 @@
-# wx7100-mining
+# Mining con la WX 7100
 
 Ciao! 
 In questa repository puoi trovare tutti i risultati dei vari test che ho fatto su questa bellissima scheda video AMD Radeon WX 7100. 
@@ -9,3 +9,4 @@ Ho inserito anche i bios che ho utilizzato:
 - il secondo bios è il bios che ho moddato utilizzando polaris bios editor 1.7.6
 
 Buon mining!
+
