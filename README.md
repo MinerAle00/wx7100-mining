@@ -1,6 +1,7 @@
 # wx7100-mining
 
-Ciao a tutti! In questa repository puoi trovare tutti i risultati dei vari test che ho fatto su questa bellissima scheda video AMD Radeon WX 7100. 
+Ciao! 
+In questa repository puoi trovare tutti i risultati dei vari test che ho fatto su questa bellissima scheda video AMD Radeon WX 7100. 
 I risultati sono stati inseriti in un foglio excel così da facilitarne la lettura.
 Ho inserito anche i bios che ho utilizzato:
 
